@@ -1,0 +1,38 @@
+{
+  "name": "darker-solarized",
+  "displayName": "Darker Solarized",
+  "description": "The best Solarized (Dark) Theme for VS Code",
+  "version": "1.0.0",
+  "publisher": "soklaysam",
+  "homepage": "https://github.com/soklaysam/vscode-darker-solarized",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soklaysam/vscode-darker-solarized.git"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darker Solarized",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darker-solarized-color-theme.json"
+      }
+    ]
+  },
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#002028",
+    "theme": "dark"
+  },
+  "keywords": [
+    "solarized",
+    "solarized dark",
+    "darker solarized",
+    "dark theme"
+  ]
+}
