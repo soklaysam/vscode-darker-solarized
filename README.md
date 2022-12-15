@@ -1,4 +1,4 @@
-# Darker Solarized README
+# Darker Solarized
 
 The best Solarized (Dark) Theme for VS Code
 
